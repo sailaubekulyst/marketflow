@@ -5,7 +5,7 @@
 ## Запуск
 
 ```bash
-go run ./cmd/main.go
+go run cmd/main.go
 ```
 
 Сервер слушает порт **8080**.
